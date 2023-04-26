@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="124.927" height="104.985"/>
+  </defs>
+  <ellipse style="stroke: darkorange; fill: black;" cx="249.854" cy="249.585" rx="249.854" ry="249.585"/>
+  <text style="fill: firebrick; font-family: Arial, sans-serif; font-size: 259.939px; font-weight: 700; line-height: 6931.72px; white-space: pre;" transform="matrix(2.677001, 0.001097, -0.000936, 2.284984, -535.057861, -271.510498)" x="185" y="311.752">M</text>
+  <text style="white-space: pre; fill:white; font-family: Arial, sans-serif; font-size: 200px;" x="188.523" y="278.354">T</text>
+</svg>
